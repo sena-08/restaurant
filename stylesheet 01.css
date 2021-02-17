@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.home{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic1.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+}
+.home ul{
+    float: right;
+    margin-right: 20px;
+}
+.logo ul li{
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 80px;}
+.logo ul li a{
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        padding: 6px 13px;
+        font-family: 'Roboto', sans-serif;
+    }
+body{
+    text-align: justify;
+    margin: 10%;
+    background-color:white;
+}
+ul, li {
+    list-style: ;
+    list-style: none;
+    display: inline;
+}
+.font {
+    font-style: italic;
+    color:rgb(194, 172, 172);
+}
+
+.home{
+    display: inline-block;
+}
+.home{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "roboto", sans-serif;
+    font-size: 15px;
+}
+}
+
+.logo{
+    width: 140px;
+    height: auto;
+    float: left;
+}
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li{
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 80px;
+}
+.home ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: 'Roboto', sans-serif;
+}
+.home ul li a.active,
+.home ul li a:hover{
+    border: 1px solid white;
+}
+
+.home .center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    user-select: none;
+}
+.center h1{
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+    width: 900px;
+    text-align: center;
+}
+.center h2{
+    color: white;
+    font-size: 30px;
+    font-weight: normal;
+    width: 900px;
+    margin-top: 10px;
+    text-align: center;
+}
+.center .buttons{
+    margin: 35px 280px;
+}
+.buttons button{
+    height: 50px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color: solid white;
+    background: lightblue;
+    border: 1px solid white;
+    outline: none;
+    cursor: pointer;
+    border-radius: 25px;
+}
+.buttons .btn{
+    margin-left: 25px;
+}
+.buttons button:hover{
+    background: white;
+}
+.iy{
+    color: white;
+    font-size: 22px;
+}
+.logo{
+    width: 140px;
+    height: auto;
+    float: ;
+}
+.ho{
+    text-align: left;
+    
+}
